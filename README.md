@@ -1,3 +1,6 @@
+# Link of the deployed version of the website
+Open [https://jovial-ramanujan-05cbd4.netlify.app/](https://jovial-ramanujan-05cbd4.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
