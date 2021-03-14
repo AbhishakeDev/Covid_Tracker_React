@@ -1,5 +1,5 @@
 # Link of the deployed version of the website
-Open [https://jovial-ramanujan-05cbd4.netlify.app/](https://jovial-ramanujan-05cbd4.netlify.app/)
+Open [https://123covidtracker.netlify.app/](https://123covidtracker.netlify.app/)
 
 # Getting Started with Create React App
 
